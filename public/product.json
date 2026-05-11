@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 49.99,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/300x300?text=Headphones",
+    "description": "High quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 89.99,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/300x300?text=Smart+Watch",
+    "description": "Track your fitness and notifications easily."
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse",
+    "price": 25.5,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300x300?text=Gaming+Mouse",
+    "description": "Ergonomic gaming mouse with RGB lights."
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "price": 70.0,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300x300?text=Keyboard",
+    "description": "Smooth typing experience with mechanical switches."
+  },
+  {
+    "id": 5,
+    "name": "Running Shoes",
+    "price": 60.0,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300x300?text=Shoes",
+    "description": "Comfortable shoes for daily running."
+  },
+  {
+    "id": 6,
+    "name": "Backpack",
+    "price": 35.0,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300x300?text=Backpack",
+    "description": "Durable backpack for travel and school."
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "price": 45.0,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/300x300?text=Speaker",
+    "description": "Portable speaker with deep bass."
+  },
+  {
+    "id": 8,
+    "name": "Laptop Stand",
+    "price": 20.0,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300x300?text=Laptop+Stand",
+    "description": "Adjustable aluminum laptop stand."
+  },
+  {
+    "id": 9,
+    "name": "Desk Lamp",
+    "price": 18.5,
+    "category": "Home",
+    "image": "https://via.placeholder.com/300x300?text=Desk+Lamp",
+    "description": "LED desk lamp with adjustable brightness."
+  },
+  {
+    "id": 10,
+    "name": "Water Bottle",
+    "price": 10.0,
+    "category": "Home",
+    "image": "https://via.placeholder.com/300x300?text=Water+Bottle",
+    "description": "Stainless steel insulated water bottle."
+  },
+  {
+    "id": 11,
+    "name": "Sunglasses",
+    "price": 15.0,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300x300?text=Sunglasses",
+    "description": "UV protection stylish sunglasses."
+  },
+  {
+    "id": 12,
+    "name": "T-Shirt",
+    "price": 12.0,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300x300?text=T-Shirt",
+    "description": "Cotton comfortable t-shirt."
+  },
+  {
+    "id": 13,
+    "name": "Smartphone",
+    "price": 199.99,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/300x300?text=Smartphone",
+    "description": "Latest budget smartphone with good camera."
+  },
+  {
+    "id": 14,
+    "name": "Tablet",
+    "price": 150.0,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/300x300?text=Tablet",
+    "description": "10-inch display tablet for entertainment."
+  },
+  {
+    "id": 15,
+    "name": "Office Chair",
+    "price": 120.0,
+    "category": "Home",
+    "image": "https://via.placeholder.com/300x300?text=Chair",
+    "description": "Comfortable ergonomic office chair."
+  },
+  {
+    "id": 16,
+    "name": "Keyboard Mouse Combo",
+    "price": 30.0,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300x300?text=Combo",
+    "description": "Wireless keyboard and mouse set."
+  },
+  {
+    "id": 17,
+    "name": "Smart TV",
+    "price": 350.0,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/300x300?text=Smart+TV",
+    "description": "42-inch smart Android TV."
+  },
+  {
+    "id": 18,
+    "name": "Fitness Band",
+    "price": 22.0,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/300x300?text=Fitness+Band",
+    "description": "Track steps, sleep and heart rate."
+  },
+  {
+    "id": 19,
+    "name": "Notebook",
+    "price": 5.0,
+    "category": "Stationery",
+    "image": "https://via.placeholder.com/300x300?text=Notebook",
+    "description": "Simple ruled notebook for daily notes."
+  },
+  {
+    "id": 20,
+    "name": "Pen Set",
+    "price": 3.5,
+    "category": "Stationery",
+    "image": "https://via.placeholder.com/300x300?text=Pen+Set",
+    "description": "Smooth writing pen set."
+  }
+]
