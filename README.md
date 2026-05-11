@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a practics project . I am creating a landing page With react , tailwind . I am used data fetch , use effect, usestate , props, map etc. 
 
 Currently, two official plugins are available:
 
